@@ -37,7 +37,7 @@ Passionate technology professional with expertise in Web Development. Focused on
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohanmoku&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Mohanmoku&show_icons=true&theme=radical" alt="GitHub Stats" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanmoku&theme=radical" alt="GitHub Streak" />
 </div>
 
