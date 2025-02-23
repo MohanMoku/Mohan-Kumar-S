@@ -2,7 +2,7 @@
 ### Full Stack Developer | Software Engineer | AI Enthusiast
 
 <div align="center">
-  <img src="./mohan.JPG" alt="Mohan kumar S" width="200" height="200" style="border-radius: 50%"/>
+  <img src="./Moku.JPG" alt="Mohan kumar S" width="200" height="200" style="border-radius: 50%"/>
 </div>
 
 ## 👨‍💻 About Me
